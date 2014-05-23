@@ -4,6 +4,7 @@
 int nr(int x)
 {
     return x+7;
+    //comentariu
 }
 
 
